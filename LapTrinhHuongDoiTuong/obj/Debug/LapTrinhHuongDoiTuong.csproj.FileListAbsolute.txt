@@ -1,0 +1,10 @@
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\obj\Debug\LapTrinhHuongDoiTuong.csprojAssemblyReference.cache
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\obj\Debug\LapTrinhHuongDoiTuong.Form1.resources
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\obj\Debug\LapTrinhHuongDoiTuong.Properties.Resources.resources
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\obj\Debug\LapTrinhHuongDoiTuong.csproj.GenerateResource.cache
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\obj\Debug\LapTrinhHuongDoiTuong.csproj.CoreCompileInputs.cache
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\bin\Debug\LapTrinhHuongDoiTuong.exe.config
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\bin\Debug\LapTrinhHuongDoiTuong.exe
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\bin\Debug\LapTrinhHuongDoiTuong.pdb
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\obj\Debug\LapTrinhHuongDoiTuong.exe
+D:\Project\Project code\Project C-sharp Window Form\LapTrinhHuongDoiTuong\LapTrinhHuongDoiTuong\obj\Debug\LapTrinhHuongDoiTuong.pdb
